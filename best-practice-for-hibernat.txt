@@ -1,0 +1,3 @@
+Repeatedly querying the Entity table for each ID.
+
+N+1 Select Problem:
